@@ -1,0 +1,58 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-abstract",
+      "description": "Abstract AI visualization for hero section",
+      "imageUrl": "https://images.unsplash.com/photo-1745029946238-f41691627c44?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxhYnN0cmFjdCUyMGFpJTIwdmlzdWFsaXphdGlvbnxlbnwwfHx8fDE3NjQ0MTcyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "abstract ai visualization"
+    },
+    {
+      "id": "demo-upload",
+      "description": "UI for file upload screen",
+      "imageUrl": "https://images.unsplash.com/photo-1595872018818-97555653a011?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHx1cGxvYWQlMjBzY3JlZW58ZW58MHx8fHwxNzY0NDE3MjI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "upload screen"
+    },
+    {
+      "id": "demo-viewer",
+      "description": "UI for PDF viewer",
+      "imageUrl": "https://images.unsplash.com/photo-1686517120992-bfc74e4ee0c7?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw3fHxwZGYlMjB2aWV3ZXJ8ZW58MHx8fHwxNzY0NDE3MjI1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pdf viewer"
+    },
+    {
+      "id": "demo-results",
+      "description": "UI for extraction results",
+      "imageUrl": "https://images.unsplash.com/photo-1732027912131-3a10677b8449?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw0fHxleHRyYWN0aW9uJTIwcmVzdWx0c3xlbnwwfHx8fDE3NjQ0MTcyMjV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "extraction results"
+    },
+    {
+      "id": "demo-reasoning",
+      "description": "UI for AI reasoning panel",
+      "imageUrl": "https://images.unsplash.com/photo-1763718528755-4bca23f82ac3?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxhaSUyMHBhbmVsfGVufDB8fHx8MTc2NDQxNzIyNXww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "ai panel"
+    },
+    {
+      "id": "demo-dashboard",
+      "description": "UI for dashboard charts",
+      "imageUrl": "https://images.unsplash.com/photo-1701099153647-bf447f0a855a?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8ZGFzaGJvYXJkJTIwY2hhcnRzfGVufDB8fHx8MTc2NDMyMjYwM3ww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "dashboard charts"
+    },
+    {
+      "id": "testimonial-1",
+      "description": "Avatar for first testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1502823403499-6ccfcf4fb453?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxwcm9maWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY0MzUxNTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile portrait"
+    },
+    {
+      "id": "testimonial-2",
+      "description": "Avatar for second testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9maWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY0MzUxNTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile portrait"
+    },
+    {
+      "id": "testimonial-3",
+      "description": "Avatar for third testimonial",
+      "imageUrl": "https://images.unsplash.com/photo-1539125530496-3ca408f9c2d9?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxwcm9maWxlJTIwcG9ydHJhaXR8ZW58MHx8fHwxNzY0MzUxNTU3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "profile portrait"
+    }
+  ]
+}

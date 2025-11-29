@@ -1,0 +1,29 @@
+{
+  "application": {
+    "name": "affexai-landing-page",
+    "description": "AffeXAI Landing Page - AI Document Intelligence Platform",
+    "repository": "",
+    "branch": "main",
+    "buildPack": "dockerfile",
+    "dockerfilePath": "Dockerfile",
+    "dockerfileDestination": "/",
+    "publishDirectory": "",
+    "port": 3000,
+    "healthCheckPath": "/",
+    "healthCheckMethod": "GET",
+    "healthCheckResponseCode": 200,
+    "healthCheckResponseBody": "",
+    "healthCheckResponseText": "",
+    "restartPolicy": "on-failure",
+    "restartPolicyRetries": 3,
+    "maxRestarts": 10,
+    "autoDeploy": true,
+    "previewDeployment": false,
+    "environmentVariables": [
+      {
+        "key": "NODE_ENV",
+        "value": "production"
+      }
+    ]
+  }
+}
